@@ -6,7 +6,7 @@
 ## ✨ Who Am I?
 I’m a **Full-Stack Engineer** with a passion for building end-to-end solutions that blend creativity, functionality, and innovation. From designing sleek, user-friendly frontends to engineering robust, scalable backends, I thrive on crafting impactful digital experiences with clean code and cutting-edge tech.
 
-- 🔭 Currently working on **Computer Vision** projects.  
+- 🔭 Crafting **AI agents** to push tech boundaries.
 - 🌱 Exploring **AI-powered solutions** to transform how we interact with technology.  
 - 🎯 Aiming to **contribute to open-source** and foster a vibrant **developer community**.  
 - ⚡ Fun Fact: When I’m not coding, I’m **chasing horsepower—exploring cars, hitting auto shows, or planning my next supercar road trip! 🚗💨**
@@ -33,12 +33,6 @@ I’m a **Full-Stack Engineer** with a passion for building end-to-end solutions
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  
 ![VSCode](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)  
-
----
-
-## 📈 My GitHub Journey  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=azizkhan16&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=azizkhan16&layout=compact&theme=radical)  
 
 ---
 
